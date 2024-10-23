@@ -1,0 +1,7 @@
+requests
+cloudinary
+pillow
+python-dotenv
+colorama
+python-dotenv
+fake-useragent
